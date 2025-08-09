@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "question": "What are some effective ways to increase crop yield sustainably?",
+      "answer": "Sustainable farming techniques include crop rotation, organic composting, precision agriculture with IoT sensors, and efficient water management systems like drip irrigation."
+    },
+    {
+      "question": "How can small businesses leverage AI to boost productivity?",
+      "answer": "AI tools like chatbots for customer support, data analytics for market insights, and automation for repetitive tasks help small businesses save time and make informed decisions."
+    },
+    {
+      "question": "What are the benefits of using telemedicine in rural areas?",
+      "answer": " Telemedicine bridges the gap by providing remote consultations, reducing travel costs, and ensuring timely medical advice for patients in underserved areas."
+    },
+    {
+      "question": "How does precision agriculture impact farming efficiency?",
+      "answer": "Precision agriculture uses GPS, sensors, and data analytics to monitor crops, optimize resource use, and reduce waste\u2014leading to higher yields and lower costs"
+    },
+    {
+      "question": "How can AI help in early disease detection?",
+      "answer": " AI algorithms analyze medical data, such as images and genetic information, to identify patterns and detect diseases like cancer or diabetes in their early stages, improving treatment outcomes."
+    },
+    {
+      "question": "What are the advantages of organic farming over conventional farming?",
+      "answer": "Organic farming avoids synthetic pesticides and fertilizers, promotes soil health, and produces chemical-free crops, improving sustainability and biodiversity."
+    },
+    {
+      "question": "What is smart irrigation, and how does it benefit farmers?",
+      "answer": "Smart irrigation uses sensors and weather forecasts to optimize water usage, reducing waste and ensuring crops get the right amount of moisture."
+    },
+    {
+      "question": "How do drones help in modern agriculture?",
+      "answer": " Drones provide aerial imaging to monitor crop health, assess soil conditions, and apply fertilizers or pesticides precisely."
+    },
+    {
+      "question": "What role do IoT devices play in precision farming?",
+      "answer": "IoT devices collect real-time data on soil moisture, temperature, and crop health, helping farmers make informed decisions and improve productivity."
+    },
+    {
+      "question": "How can farmers protect crops from climate change effects?",
+      "answer": " Climate-smart agriculture includes crop diversification, soil conservation practices, and using drought-resistant seed varieties to adapt to changing weather patterns."
+    },
+    {
+      "question": "",
+      "answer": " Climate-smart agriculture includes crop diversification, soil conservation practices, and using drought-resistant seed varieties to adapt to changing weather patterns."
+    },
+    {
+      "question": "What is cloud computing, and why is it important for businesses?",
+      "answer": "Cloud computing provides on-demand access to storage and computing power, allowing businesses to scale easily, reduce infrastructure costs, and improve data security."
+    },
+    {
+      "question": "How does blockchain technology improve supply chain management?",
+      "answer": "Blockchain provides a secure, transparent, and immutable ledger for tracking products through the supply chain, reducing fraud and ensuring authenticity."
+    },
+    {
+      "question": "What are the key differences between AI and machine learning?",
+      "answer": "AI is a broader concept of creating intelligent machines, while machine learning is a subset of AI that enables machines to learn from data and make decisions."
+    },
+    {
+      "question": "How does cybersecurity protect businesses from digital threats?",
+      "answer": "Cybersecurity practices like encryption, firewalls, and regular software updates help protect sensitive data from cyberattacks and unauthorized access."
+    },
+    {
+      "question": "What are the applications of 5G technology beyond faster internet speeds?",
+      "answer": " 5G enables innovations like autonomous vehicles, smart cities, remote surgeries, and enhanced IoT device connectivity due to its low latency and high bandwidth."
+    },
+    {
+      "question": "What is telehealth, and how is it transforming patient care?",
+      "answer": "Telehealth allows virtual consultations, remote monitoring, and digital prescriptions, improving accessibility and convenience for patients."
+    },
+    {
+      "question": "How does wearable technology help in healthcare?",
+      "answer": "Wearable devices track heart rate, sleep patterns, and physical activity, providing real-time health insights and alerting users to potential issues."
+    }
+  ]
+}
